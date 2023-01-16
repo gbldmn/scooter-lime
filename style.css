@@ -1,0 +1,92 @@
+body{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: centers;
+}
+
+/* .debug {
+    border: solid 1px red;
+} */
+
+.container {
+    width: 60%;
+    margin: 25vh auto;
+    min-height: 600px;
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 30px;
+    position:relative;
+}
+
+.resize{
+    width: 200px;
+    height: auto;
+    text-align: center;
+}
+
+.logo{
+    text-align: center;
+    
+}
+.booleaners{
+    color: greenyellow;
+    
+    
+}
+.booleaners h3{
+    text-align: center;
+}
+.green{
+    background-color: goldenrod;
+    width: 80%;
+    margin: auto;
+    min-height: 40px;
+    padding-top: 10px;
+    text-align: center;
+
+}
+
+
+.rettangolo-blu{
+    background-color: blue;
+    width: 80%;
+    margin: auto;
+    min-height: 20px;
+    text-align: center;
+    
+    
+    
+
+}
+.center {
+    width: 80%;
+    
+
+    
+}
+.row-left{
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+    color: white;
+ 
+}
+
+.rettangolo-bianco{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    min-height: 20px;
+    text-align: center;
+    
+    
+}
+.rettangolo-rosso{
+    background-color: red;
+    width: 80%;
+    margin: auto;
+    min-height: 20px;
+    text-align: center;
+    
+    
+}
